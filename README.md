@@ -1,2 +1,2 @@
-# Hello-github
-My first github repository
+# mobile GitHub practice
+Using GitHub only from phone
